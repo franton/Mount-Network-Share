@@ -3,7 +3,7 @@
 # Script to mount a specified server and share on smb.
 # This should use the AD credentials to log in.
 
-# Author      : r.purves@arts.ac.uk
+# Author      : contact@richard-purves.com
 
 # Version 1.0 : 28-06-2013 - Initial Version
 
